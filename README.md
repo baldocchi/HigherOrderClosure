@@ -1,18 +1,6 @@
 HigherOrderClosure_v2025.m : 
 
-Matlab version of the C version of the code I made of the Fortran version 
-of Meyers and Paw U Higher Order Closure model
- 
- 
-Meyers TP + Paw U KT. 1987. Ag.Forest Met.
- 
-Meyers , T. P., and K. T. Paw U (1987), 
-Modeling the plant canopy micrometeorology with higher order 
-closure principles, Agricultural and Forest Meteorology, 41, 143-163.
-
- 
 Dennis Baldocchi
-Ecosystem Science Division
 Dept of Environmental Science, Policy and Management
 University of California, Berkeley
 baldocchi@berkeley.edu
@@ -20,10 +8,17 @@ baldocchi@berkeley.edu
 
 Feb 5, 2025
 
-Tilden gave us an updated version of Fortran in 2025
+Matlab version of the C version of the code I made from the Fortran version 
+of Meyers and Paw U Higher Order Closure model
 
-Dec. 2003 (From Tilden's 1987 Fortran version)
+Meyers , T. P., and K. T. Paw U (1987), 
+Modeling the plant canopy micrometeorology with higher order 
+closure principles, Agricultural and Forest Meteorology, 41, 143-163.
 
+Tilden Meyers was my colleague at ATDD/NOAA where we worked together measuring and modeling
+turbulence and turbulent exchange inside forests
+
+Tilden gave me an updated version of Fortran in 2025, from which the most recent code has provenance too.
 
 Nine equations are solved for
  
